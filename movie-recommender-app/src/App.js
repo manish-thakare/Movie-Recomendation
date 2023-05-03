@@ -1,6 +1,7 @@
 import "./App.css";
 import Home from "./Pages/Home";
 import SearchResult from "./Pages/SearchResult";
+//import { SignIn, SignUp } from "./Pages/Components/auth";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
                         path="/search/:id"
                         element={<SearchResult />}
                     />
-                </Routes>
+                    </Routes>
             </Router>
         </div>
     );

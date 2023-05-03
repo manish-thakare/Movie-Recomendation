@@ -29,7 +29,7 @@ const Footer = () => {
                     </a>
                 </div>
                 <div id="row1" className="row">
-                    © Developed By Shohan Mondal
+                    © Developed By VIT GID-B 17
                 </div>
             </div>
         </footer>

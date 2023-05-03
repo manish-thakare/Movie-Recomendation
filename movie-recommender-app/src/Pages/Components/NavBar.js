@@ -1,4 +1,3 @@
-// NavBar Component
 import { Link } from "react-router-dom";
 import "./styles/NavBarStyles.css";
 import Logo from "./images/Logo2.png";
