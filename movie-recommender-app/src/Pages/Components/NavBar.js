@@ -4,7 +4,7 @@ import Logo from "./images/Logo2.png";
 
 const NavBar = ({ isHome }) => {
     const gitRepoLink =
-        "https://github.com/shohan2001/React-Flask-Movie-Recommendation-App";
+        "https://github.com/manish-thakare/Movie-Recomendation.git";
     return (
         <div className="container header">
             <Link to="/ ">
