@@ -11,8 +11,18 @@
 
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg) ![Website shields.io](https://img.shields.io/badge/website-up-yellow)
 
-
 ----
+
+## UI:
+Homepage:
+![image](https://github.com/manish-thakare/Movie-Recomendation/assets/82271000/cde0b7b4-6d5c-47ce-9480-bd6eea581da1)
+
+Details:
+![image](https://github.com/manish-thakare/Movie-Recomendation/assets/82271000/0bae14f9-23db-4860-9ec0-4f1c4175517e)
+
+Filters:
+![image](https://github.com/manish-thakare/Movie-Recomendation/assets/82271000/c4a311d1-b285-49f3-8cf7-b443cd1f9f1b)
+
 
 ## Installation 📦
 1. Clone or download this repository to your local machine.
